@@ -1,25 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "6/25(土)技術書典 出展のお知らせ"
 date:   2016-05-24 14:13:22 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+6/25(土)に技術書オンリー同人誌即売会「[技術書典](https://techbookfest.org/)」にサークル参加します。  
+我がサークル「ゐろはカルタ」は**A-11**スペースにて、  
+「**ウーパールーパーを支える技術**」を頒布予定です！    
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+ウーパールーパーの飼育を通して、その生態のふしぎや、  
+水中で起きる化学反応などアクアリウム科学を学ぶ本です。  
+水槽を監視するWeb技術も紹介します。  
 
-Jekyll also offers powerful support for code snippets:
+中学理科の復習をしつつ、ちょっとした発見も散りばめ  
+どなたでもお楽しみいただける内容になっています。  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![circlecut](/img/circlecut.png)  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+同人誌を作るのは初めてで、試行錯誤して頑張ってます！  
+実際の飼育器具を見れたり、スペースも楽しく出来たらと思っています。  
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+他の出展も面白そうなサークルが揃っているので、ぜひ遊びに来てください。  
+6/25(土)は秋葉原で僕と握手！  
+
+
+日時　：2016/6/25(土)  11:00-17:00 （頒布は完売次第終了)  
+参加費：無料  
+場所　：秋葉原通運会館  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.9823404842914!2d139.76893931525944!3d35.70205218018947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1e76d5b563%3A0x5df8636c51a7faaa!2z44CSMTAxLTAwMjEg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65aSW56We55Sw77yT5LiB55uu77yR77yW4oiS77yR77yYIOmAmumBi-S8mumkqA!5e0!3m2!1sja!2sjp!4v1464106470585" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
